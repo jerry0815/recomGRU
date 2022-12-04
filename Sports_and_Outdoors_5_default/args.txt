@@ -1,0 +1,11 @@
+batch_size,128
+dataset,Sports_and_Outdoors_5
+device,cuda
+hidden_units,40
+inference_only,True
+lr,0.001
+maxlen,20
+num_blocks,2
+num_epochs,81
+state_dict_path,Sports_and_Outdoors_5_default/recomGRU.epoch=81.lr=0.001.head=2.hidden=40.maxlen=20.pth
+train_dir,default
